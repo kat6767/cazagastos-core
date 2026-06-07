@@ -54,7 +54,7 @@ El proyecto utiliza una estrategia basada en GitFlow:
 
 * Git y GitHub
 * GitHub Actions
-* ESLint / SonarLint
+* Dart analyze
 * Figma
 * Herramientas de pruebas unitarias e integración
 
